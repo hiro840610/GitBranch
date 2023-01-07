@@ -13,7 +13,7 @@ public class MainApp {
 
 class Math{
 	int add(int a, int b) {
-		// yoooooooooooooooooooo
+		// yoooooooooooooooo
 		return a + b;
 	}
 }
