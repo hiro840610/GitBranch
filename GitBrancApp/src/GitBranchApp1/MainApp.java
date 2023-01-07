@@ -2,8 +2,9 @@ package GitBranchApp1;
 
 public class MainApp {
 	public static void main(String[]args) {
-		//�ժ�
+		//�ժ�
 		System.out.println("1st Version");
+<<<<<<< HEAD
 		//�ժ�(�s�W��)
 		Math cMath = new Math();
 		System.out.println();
@@ -14,5 +15,13 @@ public class MainApp {
 class Math{
 	int add(int a, int b) {
 		return a + b;
+=======
+		
+		
+//		  /\＿/\                     /\  /\
+//		 (   •ω•)                   ( •ω•  )
+//		 />☕️                            ☕️<\
+//		 窩們                           窩們
+>>>>>>> branch 'master' of https://github.com/hiro840610/GitBranch.git
 	}
 }
